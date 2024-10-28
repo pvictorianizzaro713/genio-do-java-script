@@ -8,7 +8,7 @@ body {
   background-image: url(./imagem\ do\ palacio.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 500vw 500vh;
+  background-size: 90vw 90vh;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -31,4 +31,8 @@ button {
   font-size: 26px;
   border-radius: 30px;
   cursor: pointer;
+  font-family: "Sevillana", cursive;
+}
+button:hover {
+  background-color: #B74794;
 }/*# sourceMappingURL=style.css.map */
